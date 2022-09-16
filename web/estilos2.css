@@ -1,0 +1,39 @@
+h1{
+    color: white; font-family: sans-serif;
+}
+
+
+h2 {
+    color:black; font-family: serif; font-size: 30pt;
+}
+
+p {
+    color: grey; font-family: times new roman;
+}
+
+table{
+    color: black; font-family: Courier New;
+}
+
+th {
+    color: lightgreen;
+}
+
+td {
+    color: grey;
+}
+span {
+    color: lightgreen; font-family: cursive;   
+}
+caption {
+    color: black; font-family: serif; font-size: 15pt;
+}
+h3{
+    color: white;
+}
+li{
+    color: lightgreen;
+}
+
+
+
